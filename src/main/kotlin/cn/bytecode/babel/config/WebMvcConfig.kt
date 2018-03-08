@@ -11,7 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer
 @EnableWebMvc
 open class WebMvcConfig : WebMvcConfigurer{
 
-    @Value("\${pattern.ua.mobile}")
+    @Value("\${app.pattern.ua.mobile}")
     lateinit var mobileUaPattern: String
 
     override fun addInterceptors(registry: InterceptorRegistry) {
