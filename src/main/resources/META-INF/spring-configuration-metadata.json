@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "app.mobile_ua_pattern",
+      "type": "java.lang.String",
+      "description": "Configuration for mobile device user agent pattern",
+      "sourceType": "cn.bytecode.babel.config.ApplicationProperties"
+    }
+  ]
+}
