@@ -1,0 +1,5 @@
+app:
+    mobile-ua-pattern: (?i)ipod|iphone|android|opera mini|blackberry|webos|ucweb|blazer|psp|iemobile
+spring:
+    thymeleaf:
+        cache: false
