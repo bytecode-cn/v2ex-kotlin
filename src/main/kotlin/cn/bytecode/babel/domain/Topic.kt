@@ -1,6 +1,5 @@
 package cn.bytecode.babel.domain
 
-import java.time.LocalDateTime
 import javax.persistence.*
 
 @Entity
