@@ -1,6 +1,7 @@
 # Project Babel 2K
 
 [![Build Status](https://travis-ci.org/bytecode-cn/v2ex-kotlin.svg?branch=master)](https://travis-ci.org/bytecode-cn/v2ex-kotlin)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 Project Babel 2K is an open source software package for creating and supporting communities. It's just an alternative backend implementation of [Project Babel 2](https://github.com/livid/v2ex) in Spring Boot Kotlin.
 
