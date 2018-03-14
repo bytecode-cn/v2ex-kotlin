@@ -14,4 +14,7 @@ data class Topic(
     lateinit var lastRepliedBy: Person
     @ManyToOne
     lateinit var compositedBy: Person
+    @ManyToOne
+    lateinit var node: Node
+
 }
