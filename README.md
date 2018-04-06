@@ -5,7 +5,7 @@
 
 Project Babel 2K is an open source software package for creating and supporting communities. It's just an alternative backend implementation of [Project Babel 2](https://github.com/livid/v2ex) in Spring Boot Kotlin.
 
-## Features(Building)
+## Features(Building...)
 
 * Topics are organized under Nodes (Discussion Areas), you can have many Nodes in one community
 * Nodes can have header, foot and category property, or organized under Sections
